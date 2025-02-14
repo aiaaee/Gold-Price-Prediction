@@ -17,11 +17,12 @@ The historical data of Gold ETF fetched from Yahoo finance has 7 columns, Date, 
 3.  'EG_open', 'EG_high', 'EG_low', 'EG_close', 'EG_Ajclose', 'EG_volume' of Eldorado Gold Corporation (EGO),
 4.  'EU_Price','EU_open', 'EU_high', 'EU_low', 'EU_Trend' of EUR USD Exchange rate,
 5.  'OF_Price', 'OF_Open', 'OF_High', 'OF_Low', 'OF_Volume', 'OF_Trend' of Brent Crude oil Futures,
-6.  'OS_Price', 'OS_Open', 'OS_High', 'OS_Low', 'OS_Trend', of Crude Oil WTI USD, 'SF_Price', 'SF_Open', 'SF_High', 'SF_Low', 'SF_Volume', 'SF_Trend' of Silver Futures,
-7.   'USB_Price', 'USB_Open', 'USB_High','USB_Low', 'USB_Trend' of US Bond Rate data,
-8.    'PLT_Price', 'PLT_Open', 'PLT_High', 'PLT_Low','PLT_Trend' of Platinum Price,
-9. 'PLD_Price', 'PLD_Open', 'PLD_High', 'PLD_Low','PLD_Trend' of Palladium price
-10. 'RHO_PRICE' of Rhodium Prices
-11. 'USDI_Price', 'USDI_Open', 'USDI_High','USDI_Low', 'USDI_Volume', 'USDI_Trend' of US dollar Index Price,
-12.  'GDX_Open', 'GDX_High', 'GDX_Low', 'GDX_Close', 'GDX_Adj Close', 'GDX_Volume' of Gold Miners ETF,
-13.   'USO_Open','USO_High', 'USO_Low', 'USO_Close', 'USO_Adj Close', 'USO_Volume' of Oil ETF USO
+6.  'OS_Price', 'OS_Open', 'OS_High', 'OS_Low', 'OS_Trend', of Crude Oil WTI USD,
+7.   'SF_Price', 'SF_Open', 'SF_High', 'SF_Low', 'SF_Volume', 'SF_Trend' of Silver Futures,
+8.   'USB_Price', 'USB_Open', 'USB_High','USB_Low', 'USB_Trend' of US Bond Rate data,
+9.    'PLT_Price', 'PLT_Open', 'PLT_High', 'PLT_Low','PLT_Trend' of Platinum Price,
+10.  'PLD_Price', 'PLD_Open', 'PLD_High', 'PLD_Low','PLD_Trend' of Palladium price
+11.  'RHO_PRICE' of Rhodium Prices
+12. 'USDI_Price', 'USDI_Open', 'USDI_High','USDI_Low', 'USDI_Volume', 'USDI_Trend' of US dollar Index Price,
+13.  'GDX_Open', 'GDX_High', 'GDX_Low', 'GDX_Close', 'GDX_Adj Close', 'GDX_Volume' of Gold Miners ETF,
+14.   'USO_Open','USO_High', 'USO_Low', 'USO_Close', 'USO_Adj Close', 'USO_Volume' of Oil ETF USO
