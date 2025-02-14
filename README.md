@@ -34,4 +34,8 @@ Since the price of gold is influenced by various factors, this project utilizes 
 
 ![Correlation](https://github.com/user-attachments/assets/abf62646-c123-42d5-a31b-704499967c81)
 
+I was also able to use charts to analyze the relationships between the data and map out their upward or downward trends based on the daily and yearly fluctuations in gold prices.
+
+![Plot](https://github.com/user-attachments/assets/3c53f24a-7d15-4750-a408-961838757f84)
+
 
