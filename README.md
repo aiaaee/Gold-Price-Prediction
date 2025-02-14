@@ -47,3 +47,7 @@ Random Forest is a powerful ensemble learning method that enhances predictive ac
 
 ![randomforest](https://github.com/user-attachments/assets/b98d6ed3-1382-4af8-a71d-9a93f8f64083)
 
+
+
+Based on the provided explanations, this approach has demonstrated the best performance for such a dataset. It has successfully uncovered valuable and meaningful insights, achieving significant R² and Mean Squared Error (MSE) scores.
+
