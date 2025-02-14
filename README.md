@@ -31,3 +31,7 @@ The historical data of Gold ETF fetched from Yahoo finance has 7 columns, Date, 
 ## Explority Data Analysis
 
 Since the price of gold is influenced by various factors, this project utilizes the concept of correlation to better understand the data and gain insights into the relationships between different variables. By analyzing the correlation between rows and columns, we can identify their connections and make optimal use of this information in the model.
+
+![Correlation](https://github.com/user-attachments/assets/abf62646-c123-42d5-a31b-704499967c81)
+
+
