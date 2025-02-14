@@ -26,3 +26,8 @@ The historical data of Gold ETF fetched from Yahoo finance has 7 columns, Date, 
 #### 12. 'USDI_Price', 'USDI_Open', 'USDI_High','USDI_Low', 'USDI_Volume', 'USDI_Trend' of US dollar Index Price,
 #### 13.  'GDX_Open', 'GDX_High', 'GDX_Low', 'GDX_Close', 'GDX_Adj Close', 'GDX_Volume' of Gold Miners ETF,
 #### 14.   'USO_Open','USO_High', 'USO_Low', 'USO_Close', 'USO_Adj Close', 'USO_Volume' of Oil ETF USO
+
+
+## Explority Data Analysis
+
+Since the price of gold is influenced by various factors, this project utilizes the concept of correlation to better understand the data and gain insights into the relationships between different variables. By analyzing the correlation between rows and columns, we can identify their connections and make optimal use of this information in the model.
