@@ -39,3 +39,10 @@ I was also able to use charts to analyze the relationships between the data and 
 ![Plot](https://github.com/user-attachments/assets/3c53f24a-7d15-4750-a408-961838757f84)
 
 
+
+## Model Evaluation 
+
+In the model design and construction phase, I first applied normalization and data preprocessing to organize the dataset effectively. Then, I built a model based on the Random Forest algorithm, with its implementation outlined as follows:
+Random Forest is a powerful ensemble learning method that enhances predictive accuracy and robustness by combining multiple decision trees. By aggregating the outputs of numerous weak learners, it mitigates overfitting and improves generalization to unseen data. Additionally, its inherent feature importance evaluation provides valuable insights into the significance of different variables, making it a reliable choice for both regression and classification tasks, particularly in complex and high-dimensional datasets.
+
+
