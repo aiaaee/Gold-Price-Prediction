@@ -51,3 +51,4 @@ Random Forest is a powerful ensemble learning method that enhances predictive ac
 
 Based on the provided explanations, this approach has demonstrated the best performance for such a dataset. It has successfully uncovered valuable and meaningful insights, achieving significant R² and Mean Squared Error (MSE) scores.
 
+One of the key challenges observed in this project was overfitting, where the model exhibited excessively high accuracy on the training data. To address this issue, we applied regularization techniques and adjusted the hyperparameters to reduce overfitting. These modifications helped the model achieve a more balanced performance, enabling it to predict and process data at a reasonable level of accuracy.
